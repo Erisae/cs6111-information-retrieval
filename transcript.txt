@@ -1,0 +1,574 @@
+#####################################################
+###################### test1 ########################
+#####################################################
+Parameters:
+Client key  = xxxxx
+Engine key  = xxxxx
+Query       = per se
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.thomaskeller.com/perseny
+ Title: Per Se | Thomas Keller Restaurant Group
+ Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+
+Relevant  (Y/N)?Y
+Result 2
+[
+ URL: https://en.wiktionary.org/wiki/per_se
+ Title: per se - Wiktionary
+ Summary: In and of itself; by itself; without determination by or involvement of extraneous factors; as such quotations ▽synonym △ · (philosophy) Being a thing that ...
+]
+
+Relevant  (Y/N)?N
+Result 3
+[
+ URL: https://www.exploretock.com/perse
+ Title: Per Se - New York, NY | Tock
+ Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+
+Relevant  (Y/N)?Y
+Result 4
+[
+ URL: https://www.instagram.com/perseny/?hl=en
+ Title: Per Se (@perseny) • Instagram photos and videos
+ Summary: Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. exploretock.com/perse. 880 posts.
+]
+
+Relevant  (Y/N)?Y
+Result 5
+[
+ URL: https://www.yelp.com/biz/per-se-new-york
+ Title: PER SE - 7270 Photos & 1823 Reviews - Food near New York, NY ...
+ Summary: 1823 reviews of Per Se "This is Thomas Keller's new resturant in New York. A must if you can get a reservation."
+]
+
+Relevant  (Y/N)?Y
+Result 6
+[
+ URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+ Title: Per Se (restaurant) - Wikipedia
+ Summary: Per Se is a New American and French restaurant located at The Shops at Columbus Circle, on the fourth floor of the Deutsche Bank Center at 10 Columbus ...
+]
+
+Relevant  (Y/N)?Y
+Result 7
+[
+ URL: https://www.merriam-webster.com/dictionary/perse
+ Title: Perse Definition & Meaning - Merriam-Webster
+ Summary: adjective (1) · ˈpərs · of a dark grayish blue resembling indigo ; adverb. (ˌ)pər-ˈsā,. also per-ˈsā,. or. (ˌ)pər-ˈsē · by, of, or in itself or oneself or ...
+]
+
+Relevant  (Y/N)?N
+Result 8
+[
+ URL: https://dictionary.cambridge.org/us/dictionary/english/per-se
+ Title: PER SE | definition in the Cambridge English Dictionary
+ Summary: 7 days ago ... by or of itself: It is not a pretty town per se, but it is where my family comes from, so I like it.
+]
+
+Relevant  (Y/N)?N
+Result 9
+[
+ URL: https://guide.michelin.com/us/en/new-york-state/new-york/.../per-se
+ Title: Per Se – New York - a MICHELIN Guide Restaurant
+ Summary: Per Se – a Three MICHELIN Stars: Exceptional cuisine, worth a special journey! restaurant in the 2022 MICHELIN Guide USA. The MICHELIN inspectors' point of ...
+]
+
+Relevant  (Y/N)?Y
+Result 10
+[
+ URL: https://dictionary.cambridge.org/dictionary/english/per-se
+ Title: PER SE | English meaning - Cambridge Dictionary
+ Summary: 7 days ago ... per se definition: 1. by or of itself: 2. by or of itself: 3. by or of itself: . Learn more.
+]
+
+Relevant  (Y/N)?N
+====================
+FEEDBACK SUMMARY
+Query per se
+Precision 0.6
+Still below the desired precision of 0.9
+Indexing results ....
+Indexing results ....
+Augmented by restaurant kellers
+Parameters:
+Client key  = xxxxx
+Engine key  = xxxxx
+Query       = restaurant kellers per se
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.thomaskeller.com/perseny
+ Title: Per Se | Thomas Keller Restaurant Group
+ Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+
+Relevant  (Y/N)?Y
+Result 2
+[
+ URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+ Title: Per Se (restaurant) - Wikipedia
+ Summary: Per Se is a New American and French restaurant located at The Shops at Columbus Circle, ... Columbus Circle in Manhattan, New York City, owned by chef Thomas Keller.
+]
+
+Relevant  (Y/N)?Y
+Result 3
+[
+ URL: https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+ Title: Today's Menus | Thomas Keller Restaurant Group
+ Summary: Daily Menus Two tasting menus are offered daily: a nine-course chef's tasting menu, as well as a nine-course vegetable tasting menu.
+]
+
+Relevant  (Y/N)?Y
+Result 4
+[
+ URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+ Title: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+ Summary: Jan 12, 2016 ... Dinner or lunch at this grand, hermetic, self-regarding, ungenerous restaurant brings a protracted march of many dishes. In 2004, the year Per ...
+]
+
+Relevant  (Y/N)?Y
+Result 5
+[
+ URL: https://guide.michelin.com/en/new-york-state/new-york/restaurant/per-se
+ Title: Per Se – New York - a MICHELIN Guide Restaurant
+ Summary: Three MICHELIN Stars: Exceptional cuisine, worth a special journey! An experience at Thomas Keller's Per Se is one to be savored, recounted and remembered.
+]
+
+Relevant  (Y/N)?Y
+Result 6
+[
+ URL: https://www.townandcountrymag.com/.../thomas-keller-per-se-new-york- times-review/
+ Title: Thomas Keller Responds to New York Times Review of Per Se ...
+ Summary: Sep 8, 2016 ... In 2004 he returned to New York for the megaproject that was Per Se. Overlooking Central Park, the restaurant was pitched as the Manhattan ...
+]
+
+Relevant  (Y/N)?Y
+Result 7
+[
+ URL: https://ny.eater.com/.../7/.../per-se-thomas-keller-corey-chow-nyc-restaurants
+ Title: Manhattan Restaurant Per Se from Thomas Keller May Finally Be a ...
+ Summary: Jul 24, 2019 ... Is Per Se Good Again? Thomas Keller's Columbus Circle tasting menu, under chef Corey Chow, has far more wins than in the past.
+]
+
+Relevant  (Y/N)?Y
+Result 8
+[
+ URL: https://nymag.com/nymetro/food/reviews/restaurant/9333/
+ Title: Thomas Keller's Per Se - New York Magazine Restaurant Review ...
+ Summary: Jun 16, 2004 ... At Per Se, Thomas Keller makes his triumphant return to New York. The atmosphere may be sedate, but the food is anything but.
+]
+
+Relevant  (Y/N)?Y
+Result 9
+[
+ URL: https://ny.eater.com/2016/1/28/10858508/thomas-keller-per-se-response
+ Title: Keller Responds to Per Se Review: 'We Are Sorry We Let You Down ...
+ Summary: Jan 28, 2016 ... The fact that The New York Times restaurant critic Pete Wells' dining experiences at Per Se did not live up to his expectations and to ours is ...
+]
+
+Relevant  (Y/N)?Y
+Result 10
+[
+ URL: https://nymag.com/nymetro/food/industry/features/n_10410/
+ Title: Thomas Keller's Per Se - Manhattan's hottest new restaurant - Nymag
+ Summary: May 13, 2004 ... very much consider myself a worrier,” Thomas Keller says, seated in the sleek, contemporary dining room of his new culinary temple, Per Se, but ...
+]
+
+Relevant  (Y/N)?Y
+====================
+FEEDBACK SUMMARY
+Query restaurant kellers per se
+Precision 1.0
+Desired precision reached, done
+
+
+#####################################################
+###################### test2 ########################
+#####################################################
+Parameters:
+Client key  = xxxxx
+Engine key  = xxxxx
+Query       = brin
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.davidbrin.com/
+ Title: worlds of David Brin
+ Summary: David Brin is best-known for shining light — plausibly and entertainingly — on technology, society, and countless challenges confronting our rambunctious ...
+]
+
+Relevant  (Y/N)?N
+Result 2
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia
+ Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and internet entrepreneur, who co-founded Google with Larry Page. Brin was the ...
+]
+
+Relevant  (Y/N)?Y
+Result 3
+[
+ URL: https://en.wiktionary.org/wiki/brin
+ Title: brin - Wiktionary
+ Summary: NounEdit · One of the radiating sticks of a fan. The outermost are larger and longer, and are called panaches. · A single silkworm thread extruded from the gland, ...
+]
+
+Relevant  (Y/N)?N
+Result 4
+[
+ URL: https://www.forbes.com/profile/sergey-brin/
+ Title: Sergey Brin
+ Summary: 7 Sergey Brin on the 2022 Forbes 400 - Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a ...
+]
+
+Relevant  (Y/N)?Y
+Result 5
+[
+ URL: https://www.postgresql.org/docs/current/brin-intro.html
+ Title: Documentation: 15: 71.1. Introduction - PostgreSQL
+ Summary: BRIN stands for Block Range Index. BRIN is designed for handling very large tables in which certain columns have some natural correlation with their ...
+]
+
+Relevant  (Y/N)?N
+Result 6
+[
+ URL: https://www.brinandbrin.com/
+ Title: Brin & Brin LLC – Law Firm
+ Summary: The litigation, transactional and compliance lawyers at Brin & Brin have proven success in some of the toughest Texas venues. ... We have represented clients in a ...
+]
+
+Relevant  (Y/N)?N
+Result 7
+[
+ URL: https://www.bringlass.com/
+ Title: Brin Glass Company: Home
+ Summary: Brin's glasswork shines in these Corporate, Healthcare, Education, Hospitality, Residential, Nonprofit, Government, and Retail projects.
+]
+
+Relevant  (Y/N)?N
+Result 8
+[
+ URL: https://www.postgresql.org/docs/current/brin.html
+ Title: Documentation: 15: Chapter 71. BRIN Indexes - PostgreSQL
+ Summary: BRIN Indexes. Prev · Up, Part VII. Internals, Home · Next. Chapter 71. BRIN Indexes. Table of Contents. 71.1. Introduction · 71.1.1. Index Maintenance.
+]
+
+Relevant  (Y/N)?N
+Result 9
+[
+ URL: https://www.nytimes.com/2023/.../google-chatgpt-artificial-intelligence.html
+ Title: Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and ...
+ Summary: Jan 20, 2023 ... Last month, Larry Page and Sergey Brin, Google's founders, held several meetings with company executives. The topic: a rival's new chatbot, ...
+]
+
+Relevant  (Y/N)?Y
+Result 10
+[
+ URL: https://www.brinlevinson.com/
+ Title: Brin Levinson
+ Summary: The Art of Brin Levinson.
+]
+
+Relevant  (Y/N)?N
+====================
+FEEDBACK SUMMARY
+Query brin
+Precision 0.3
+Still below the desired precision of 0.9
+Indexing results ....
+Indexing results ....
+Augmented by sergey google
+Parameters:
+Client key  = xxxxx
+Engine key  = xxxxx
+Query       = sergey google brin
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://en.wikipedia.org/wiki/Sergey_Brin
+ Title: Sergey Brin - Wikipedia
+ Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and internet entrepreneur, who co-founded Google with Larry Page. Brin was the ...
+]
+
+Relevant  (Y/N)?Y
+Result 2
+[
+ URL: https://www.nytimes.com/2023/.../google-chatgpt-artificial-intelligence.html
+ Title: Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and ...
+ Summary: Jan 20, 2023 ... Google Calls In Help From Larry Page and Sergey Brin for A.I. Fight ... A rival chatbot has shaken Google out of its routine, with the founders ...
+]
+
+Relevant  (Y/N)?Y
+Result 3
+[
+ URL: https://www.forbes.com/profile/sergey-brin/
+ Title: Sergey Brin
+ Summary: Real Time Net Worth · Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a controller shareholder and a ...
+]
+
+Relevant  (Y/N)?Y
+Result 4
+[
+ URL: https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos- 2016-12
+ Title: Sergey Brin: Life of Google Founder, Former Alphabet President
+ Summary: Jul 25, 2022 ... Sergey Brin, 48, is now valued at almost $95 billion, according to the Bloomberg Billionaires Index. · Brin was born in the Soviet Union during ...
+]
+
+Relevant  (Y/N)?Y
+Result 5
+[
+ URL: https://www.forbes.com/sites/.../2023/01/.../sergey-brin-code-request-lamda/
+ Title: Back At Google Again, Cofounder Sergey Brin Just Filed His First ...
+ Summary: Feb 1, 2023 ... As the battle in artificial intelligence technology heats up between Silicon Valley companies, Google cofounder Sergey Brin is getting ...
+]
+
+Relevant  (Y/N)?Y
+Result 6
+[
+ URL: https://www.businessinsider.com/google-larry-page-sergey-brin-help-chatgpt- code-red-2023-1
+ Title: Google Asked Larry Page, Sergey Brin for Help After ChatGPT ...
+ Summary: Jan 21, 2023 ... Google called on cofounders Larry Page and Sergey Brin in ChatGPT fightback after issuing a 'code red', report says.
+]
+
+Relevant  (Y/N)?Y
+Result 7
+[
+ URL: https://www.bbc.com/news/business-62288139
+ Title: Elon Musk denies affair with Google co-founder Sergey Brin's wife ...
+ Summary: Jul 25, 2022 ... Tesla boss Elon Musk has denied having an affair with Nicole Shanahan, the wife of Google co-founder, Sergey Brin.
+]
+
+Relevant  (Y/N)?Y
+Result 8
+[
+ URL: https://www.vanityfair.com/style/.../sergey-brin-amanda-rosenberg-affair
+ Title: Sergey Brin and Amanda Rosenberg: Inside the Google Co ...
+ Summary: Mar 12, 2014 ... The story behind Google co-founder Sergey Brin's liaison with Google Glass marketing manager Amanda Rosenberg—and his split from his wife, ...
+]
+
+Relevant  (Y/N)?Y
+Result 9
+[
+ URL: https://www.wsj.com/.../ SB10001424052748704266504575141064259998090
+ Title: Brin Drove Google to Pull Back in China - WSJ
+ Summary: Mar 24, 2010 ... Google Inc. co-founder Sergey Brin pushed the Internet giant to take the risky step of abandoning its China-based search engine as that ...
+]
+
+Relevant  (Y/N)?Y
+Result 10
+[
+ URL: https://www.britannica.com/biography/Sergey-Brin
+ Title: Sergey Brin | Biography, Google, & Facts | Britannica
+ Summary: Sergey Brin, (born August 21, 1973, Moscow, Russia, U.S.S.R.), American computer scientist and entrepreneur who created, along with Larry Page, the online ...
+]
+
+Relevant  (Y/N)?Y
+====================
+FEEDBACK SUMMARY
+Query sergey google brin
+Precision 1.0
+Desired precision reached, done
+
+
+#####################################################
+###################### test3 ########################
+#####################################################
+Parameters:
+Client key  = xxxxx
+Engine key  = xxxxx
+Query       = cases
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.cases.org/
+ Title: CASES: Home
+ Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+
+Relevant  (Y/N)?N
+Result 2
+[
+ URL: https://www.casetify.com/
+ Title: CASETiFY: Show Your Colors
+ Summary: CASETiFY - We make the most sustainable yet protective phone cases for iPhone 14 / iPhone 14 Pro / iPhone 14 Plus / iPhone 14 Pro Max and tech accessories.
+]
+
+Relevant  (Y/N)?N
+Result 3
+[
+ URL: https://www.worldometers.info/coronavirus/
+ Title: COVID - Coronavirus Statistics - Worldometer
+ Summary: Reported Cases and Deaths by Country or Territory. NOTE: Effective February 1, 2023, the Coronavirus Tracker has switched from LIVE to Daily Updates. As a ...
+]
+
+Relevant  (Y/N)?Y
+Result 4
+[
+ URL: https://www.vdh.virginia.gov/coronavirus/.../covid-19-in-virginia-cases/
+ Title: Cases - Coronavirus
+ Summary: Case, hospitalization, and death data reflect Virginia residents only. Death data are presented by both date of report and by date of death and are updated as ...
+]
+
+Relevant  (Y/N)?Y
+Result 5
+[
+ URL: https://www.arcgis.com/apps/.../bda7594740fd40299423467b48e9ecf6
+ Title: Coronavirus COVID-19 (2019-nCoV)
+ Summary: Total Cases. Data source error. Total Deaths. Data source error. Total Vaccine Doses Administered. Cases | Deaths by Country/Region/Sovereignty.
+]
+
+Relevant  (Y/N)?Y
+Result 6
+[
+ URL: https://covid.cdc.gov/
+ Title: CDC COVID Data Tracker: Home
+ Summary: Stay up to date on the most recent data on vaccinations, cases, and deaths. Cases, Deaths, & Testing Case & Death Demographic Trends Vaccination Distribution & ...
+]
+
+Relevant  (Y/N)?Y
+Result 7
+[
+ URL: https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html
+ Title: 2022 U.S. Map & Case Count | Mpox | Poxvirus | CDC
+ Summary: View a map of 2022 mpox cases in the United States.
+]
+
+Relevant  (Y/N)?N
+Result 8
+[
+ URL: https://www.vacourts.gov/caseinfo/home.html
+ Title: Case Status and Information
+ Summary: Circuit Court. Circuit Court Case Information Online access to civil and criminal cases in select circuit courts. Cases may be searched by locality using name, ...
+]
+
+Relevant  (Y/N)?N
+Result 9
+[
+ URL: https://www.cdc.gov/measles/cases-outbreaks.html
+ Title: Measles Cases and Outbreaks | CDC
+ Summary: Measles cases in 2019. From January 1 to December 31, 2019, 1,274* individual cases of measles were confirmed in 31 states. This is the greatest number ...
+]
+
+Relevant  (Y/N)?N
+Result 10
+[
+ URL: https://www.nytimes.com/interactive/2021/us/covid-cases.html
+ Title: Covid in the U.S.: Latest Maps, Case and Death Counts - The New ...
+ Summary: Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.
+]
+
+Relevant  (Y/N)?Y
+====================
+FEEDBACK SUMMARY
+Query cases
+Precision 0.5
+Still below the desired precision of 0.9
+Indexing results ....
+Indexing results ....
+Augmented by vaccinations vaccination
+Parameters:
+Client key  = xxxxx
+Engine key  = xxxxx
+Query       = vaccinations vaccination cases
+Precision   = 0.9
+Google Search Results:
+======================
+Result 1
+[
+ URL: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/.../index.html
+ Title: COVID-19 Vaccine Effectiveness | CDC
+ Summary: All COVID-19 vaccines available in the U.S. are effective at preventing ... Vaccine Effectiveness · Rates of COVID-19 Cases and Deaths by Vaccination Status ...
+]
+
+Relevant  (Y/N)?Y
+Result 2
+[
+ URL: https://covid.cdc.gov/
+ Title: CDC COVID Data Tracker: Home
+ Summary: Stay up to date on the most recent data on vaccinations, cases, and deaths. Cases, Deaths, & Testing Case & Death Demographic Trends Vaccination Distribution & ...
+]
+
+Relevant  (Y/N)?Y
+Result 3
+[
+ URL: https://www.cdc.gov/coronavirus/2019.../vaccines/.../breakthrough-cases.html
+ Title: COVID-19 after Vaccination: Possible Breakthrough Infection
+ Summary: Some people who are fully vaccinated will still get COVID-19 if they are exposed ... The latest rates of COVID-19 cases and deaths by vaccination status are ...
+]
+
+Relevant  (Y/N)?Y
+Result 4
+[
+ URL: https://www.azdhs.gov/covid19/data/index.php
+ Title: Home - ADHS
+ Summary: Rates of COVID-19 by Vaccination Status in Arizona COVID-19 Variant Report The ... Counts of new cases, deaths, tests conducted, and number of vaccine doses ...
+]
+
+Relevant  (Y/N)?Y
+Result 5
+[
+ URL: https://coronavirus.maryland.gov/
+ Title: Coronavirus - Maryland Department of Health
+ Summary: The Maryland Department of Health provides COVID-19 vaccine data reporting on Friday at 10 a.m. ... COVID-19 Cases Hospitalized by Vaccination Status ...
+]
+
+Relevant  (Y/N)?Y
+Result 6
+[
+ URL: https://www.mass.gov/.../massachusetts-covid-19-vaccination-data-and- updates
+ Title: Massachusetts COVID-19 vaccination data and updates | Mass.gov
+ Summary: Age and race/ethnicity breakdowns of those receiving vaccines. Previous reports, including daily vaccine report, COVID-19 cases in vaccinated individuals, and ...
+]
+
+Relevant  (Y/N)?Y
+Result 7
+[
+ URL: https://jamanetwork.com/journals/jama/fullarticle/2788346
+ Title: Myocarditis Cases Reported After mRNA-Based COVID-19 ...
+ Summary: Jan 25, 2022 ... As the reports of myocarditis after COVID-19 vaccination were reported to VAERS, the Clinical Immunization Safety Assessment Project, a ...
+]
+
+Relevant  (Y/N)?Y
+Result 8
+[
+ URL: https://www.science.org/.../rare-cases-coronavirus-vaccines-may-cause-long- covid-symptoms
+ Title: In rare cases, coronavirus vaccines may cause Long Covid–like ...
+ Summary: Jan 20, 2022 ... In rare cases, coronavirus vaccines may cause Long Covid–like symptoms · Brain fog, headaches, blood pressure swings are being probed by NIH and ...
+]
+
+Relevant  (Y/N)?Y
+Result 9
+[
+ URL: https://doh.wa.gov/emergencies/covid-19/data-dashboard
+ Title: COVID-19 Data Dashboard | Washington State Department of Health
+ Summary: Cumulative Cases, Hospitalizations and Deaths by County ... Health care providers started reporting COVID-19 vaccines to the WAIIS on December 11, 2020, ...
+]
+
+Relevant  (Y/N)?Y
+Result 10
+[
+ URL: https://www.health.state.mn.us/diseases/coronavirus/stats/vbt.html
+ Title: COVID-19 Vaccine Breakthrough Data COVID-19 Situation Update ...
+ Summary: 6 days ago ... Case and vaccine totals reflect only the results from laboratory testing and vaccinations that have been reported to the Minnesota Department of ...
+]
+
+Relevant  (Y/N)?Y
+====================
+FEEDBACK SUMMARY
+Query vaccinations vaccination cases
+Precision 1.0
+Desired precision reached, done
